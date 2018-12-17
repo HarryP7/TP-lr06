@@ -45,6 +45,5 @@ namespace LR4
 		String city;
 		String street;
 		String build;
-		String phone;
 	}
 }
