@@ -37,14 +37,6 @@ namespace LR4
             }
             return "Фирма не существует\nПовтотрите ввод";
         }
-		public method2(){
-			//Do somthing else
-		}
     }
-	class Adrress {
-		String city;
-		String street;
-		String build;
-		String phone;
-	}
+	
 }
