@@ -41,4 +41,10 @@ namespace LR4
 			//Do somthing else
 		}
     }
+	class Adrress {
+		String city;
+		String street;
+		String build;
+		String phone;
+	}
 }
