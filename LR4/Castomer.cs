@@ -30,7 +30,7 @@ namespace LR4
             List<string> List = new List<string> {"OOO Континент", "ПАО Лукойл", "ПАО МегаФон", "ООО Трансстрой" };
             for (int j = 0; j < List.Count; j++)
             {
-                if (plaseWork != List[j])
+                if (plaseWork == List[j])
                 {
                     return "Фирма корректна";
                 }
